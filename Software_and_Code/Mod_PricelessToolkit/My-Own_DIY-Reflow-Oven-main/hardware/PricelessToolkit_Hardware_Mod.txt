@@ -1,1 +1,1 @@
-now PA15 port is not for Buzzer, its connects to Attiny85 (cor controlling Cooling fan) 
+Connect PA15 port to Attiny85 (for controlling Cooling fan) 

@@ -1,4 +1,4 @@
-# !! This repository is for backup purposes only, instead of using my modification I recommend using the Vulcaman version.
+# !! This repository is for backup purposes only, instead of using my modification I recommend using the polihedron version.
 
 ## This is not my original project so all credits goes to 
 * Vulcaman "https://www.instructables.com/DIY-REFLOW-OVEN/" 
